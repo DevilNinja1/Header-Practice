@@ -27,7 +27,8 @@ header nav ul li{
 }
 header nav ul li a{
     text-decoration: none;
-    color:burlywood;
+/*     color:black; */
+    color:black;
 
 }
 .Navbar-Li:hover{
