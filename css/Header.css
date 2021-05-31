@@ -18,6 +18,10 @@ header{
 /* .navbar{
     
 } */
+.logo-head{
+    display: inline;
+    font-size: medium;
+}
 header nav ul li{
     display:inline;
     text-decoration: none;
@@ -34,6 +38,6 @@ header nav ul li a{
 .Navbar-Li:hover{
     border-bottom: 1px solid rgba(136, 139, 163, 0.829);
 }
-.fab{
+/* .fab{
     margin-right: 25px;
-}
+} */
